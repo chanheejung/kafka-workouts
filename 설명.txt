@@ -1,0 +1,4 @@
+원본 블로그 : https://refactorfirst.com/spring-cloud-stream-with-kafka-communication.html
+원본 Github : https://github.com/amrutprabhu/kafka-workouts
+
+한글 블로그 : https://www.springboot.kr/posts/spring/spring-cloud-stream-binder-kafka/

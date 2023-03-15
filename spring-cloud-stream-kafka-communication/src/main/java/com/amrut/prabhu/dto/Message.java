@@ -1,4 +1,12 @@
 package com.amrut.prabhu.dto;
 
-public record Message(String name) {
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+public class Message {
+    public String name;
 }
